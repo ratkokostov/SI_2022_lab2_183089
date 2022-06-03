@@ -41,7 +41,7 @@
 
 Со 3тиот тест случај ги корив гранки од задчата со што го задоволува критериумот на EveryBranch.
 
-![EveryBranch](https://user-images.githubusercontent.com/86716668/169294822-5ab13479-736b-4f1c-9490-1519ede2def8.jpg)
+![EveryBranch](https://user-images.githubusercontent.com/86716668/171905827-bf9e0e54-3b4b-41e9-a40c-e5e689a59775.png)
 
 
 7. Бидејќи ги користев истите тест случаеви и за двата критериума и ми беа доволни 3 тест случаеви
